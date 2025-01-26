@@ -65,7 +65,9 @@ This project is a comprehensive **SQL-based analysis** of cricket match data, fo
 ## 🛠️ How to Use
 1. Clone the repository and set up the database using the provided schema or below the schema ⬇️⬇️⬇️⬇️⬇️⬇️ is and then perform the case study problem solving.
 2. 📂 Database Schema
+
    Players Table
+   
 | `PlayerID` | `PlayerName`   | `TeamName`  | `Role`         | `DebutYear` |
 |------------|----------------|-------------|----------------|-------------|
 | 1          | Virat Kohli    | India       | Batsman        | 2008        |
@@ -73,6 +75,7 @@ This project is a comprehensive **SQL-based analysis** of cricket match data, fo
 | 3          | Mitchell Starc | Australia   | Bowler         | 2010        |
 | 4          | MS Dhoni       | India       | Wicket-Keeper  | 2004        |
 | 5          | Ben Stokes     | England     | All-Rounder    | 2011        |
+
 Matches Table
 | `MatchID` | `MatchDate`  | `Location` | `Team1`    | `Team2`      | `Winner`  |
 |-----------|--------------|------------|------------|--------------|-----------|
